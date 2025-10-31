@@ -1,0 +1,570 @@
+<!DOCTYPE html><html lang="en"><head>
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="Service Leave Connect Portal">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="keywords" content="Service Leave Connect Portal">
+    <meta name="description" content="Rendering the care you deserve...">
+
+    <!-- title  -->
+    <title>Service Leave Connect Portal - Rendering the care you deserve...</title>
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="../images/favicon_359.png">
+    <link rel="apple-touch-icon" href="../images/apple-touch-icon-57x57_359.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72_359.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114_359.png">
+
+    <!-- plugins -->
+    <link rel="stylesheet" href="../css/plugins_359.css">
+
+    <!-- search css -->
+    <link rel="stylesheet" href="../css/search_359.css">
+
+    <!-- quform css -->
+    <link rel="stylesheet" href="../css/base_359.css">
+
+    <!-- theme core css -->
+    <link href="../css/styles_359.css" rel="stylesheet">
+
+</head>
+<body>
+
+    <!-- MAIN WRAPPER
+    ================================================== -->
+    <div class="main-wrapper">
+
+        <!-- HEADER
+        ================================================== -->
+        <header class="header-style1 menu_area-light">
+
+    <div class="navbar-default border-bottom border-color-light-white">
+
+        <!-- start top search -->
+        <div class="top-search bg-primary">
+            <div class="container">
+                <form class="search-form" action="search.html" method="GET" accept-charset="utf-8">
+                    <div class="input-group">
+                        <span class="input-group-addon cursor-pointer">
+                            <button class="search-form_submit fas fa-search text-white" type="submit"></button>
+                        </span>
+                        <input type="text" class="search-form_input form-control" name="s" autocomplete="off" placeholder="Type &amp; hit enter...">
+                        <span class="input-group-addon close-search mt-1"><i class="fas fa-times"></i></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!-- end top search -->
+
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12 col-lg-12">
+                    <div class="menu_area alt-font">
+                        <nav class="navbar navbar-expand-lg navbar-light p-0">
+                            <div class="navbar-header navbar-header-custom">
+                                <!-- start logo -->
+                                <a href="./" class="navbar-brand"><img id="logo" src="../images/logo-inner_359.png" alt="logo"></a>
+                                <!-- end logo -->
+                            </div>
+
+                            <div class="navbar-toggler"></div>
+
+                            <!-- start menu area -->
+                            <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
+                                <li><a href="./">Home</a></li>
+                                <li><a href="./#about">About Us</a></li>
+                                <li>
+                                    <a href="#!">Application</a>
+                                    <ul>
+                                        <li><a href="request">Leave Request</a></li>
+                                        <li><a href="flight">Flight Ticket</a></li>
+                                        <li><a href="care">Care Package</a></li>
+                                        <li><a href="termination">Contract Termination</a></li>
+                                        <li><a href="compensation">Compensation Funds</a></li>
+                                        <li><a href="communication">Communication Permit</a></li>
+                                        <li><a href="housing">Housing</a></li>
+                                        <li><a href="request">Marriage</a></li>
+                                        <li><a href="request">Resignation</a></li>
+                                        <li><a href="request">Development Declination</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="./#gallery">Gallery</a></li>
+                                <li><a href="./#contact">Contact</a></li>
+                            </ul>
+                            <!-- end menu area -->
+
+                            <!-- start attribute navigation -->
+                            <div class="attr-nav align-items-lg-center main-font">
+                                <ul>
+                                    <li class="d-none d-xl-inline-block"><a href="request" class="butn-style3 sm text-white"><span>Request for Leave</span></a></li>
+                                </ul>
+                            </div>
+                            <!-- end attribute navigation -->
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <!-- BANNER
+        ================================================== -->
+        <section class="full-screen top-position1 p-0 banner-03">
+            <div class="slider-fade2 owl-carousel owl-theme w-100 min-vh-100">
+
+                <div class="item bg-img cover-background" data-overlay-dark="4" data-background="img/banner/slide-06.jpg">
+                    <div class="container pt-sm-6 pt-md-0 d-flex flex-column">
+                        <div class="row align-items-center justify-content-end text-end min-vh-100 pt-6 pt-md-0">
+                            <div class="col-lg-10 mb-1-9 mb-lg-0 py-5">
+                                <div class="title-style1 white">
+                                    <span>SELECOP</span>
+                                </div>
+                                <h1 class="display-18 display-sm-13 display-md-10 display-lg-5 display-xl-4 display-xxl-2 mb-2-3 text-white">
+                                    Service Leave Connect Portal.</h1>
+                                <a href="request" class="butn-style3 me-2"><span>Request for Leave</span></a>
+                                <a href="./#contact" class="butn-style3 white"><span>Contact Us</span></a>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+
+                <div class="item bg-img cover-background" data-overlay-dark="7" data-background="img/banner/slide-05.jpg">
+                    <div class="container pt-sm-6 pt-md-0 d-flex flex-column">
+                        <div class="row align-items-center justify-content-end text-end min-vh-100 pt-6 pt-md-0">
+                            <div class="col-lg-10 mb-1-9 mb-lg-0 py-5">
+                                <div class="title-style1 white">
+                                    <span>SELECOP</span>
+                                </div>
+                                <h1 class="display-18 display-sm-13 display-md-10 display-lg-5 display-xl-4 display-xxl-2 mb-2-3 text-white">
+                                    Rescue Board Designed To Save Lives.</h1>
+                                <a href="request" class="butn-style3 me-2"><span>Request for Leave</span></a>
+                                <a href="./#contact" class="butn-style3 white"><span>Contact Us</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item bg-img cover-background" data-overlay-dark="5" data-background="img/banner/slide-07.jpg">
+                    <div class="container pt-sm-6 pt-md-0 d-flex flex-column">
+                        <div class="row align-items-center justify-content-end text-end min-vh-100 pt-6 pt-md-0">
+                            <div class="col-lg-10 mb-1-9 mb-lg-0 py-5">
+                                <div class="title-style1 white">
+                                    <span>SELECOP</span>
+                                </div>
+                                <h1 class="display-18 display-sm-13 display-md-10 display-lg-5 display-xl-4 display-xxl-2 mb-2-3 text-white">
+                                    Reliable Leave for Any Purpose.</h1>
+                                <a href="request" class="butn-style3 me-2"><span>Request for Leave</span></a>
+                                <a href="./#contact" class="butn-style3 white"><span>Contact Us</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- ABOUT US 
+        ================================================== -->
+        <section class="py-0" id="about">
+            <div class="container-fluid px-0">
+                <div class="row g-0 overlap-column">
+                    <div class="col-lg-6 bg-img cover-background overflow-visible rounded" data-wow-delay="100ms" data-overlay-dark="0" data-background="img/bg/bg-07.jpg">
+                        <div class="d-flex about-contact">
+                            <div class="icon rounded-start">
+                                <i class="ti-email display-22 text-white d-block mt-2"></i>
+                            </div>
+                            <div class="contact-text">
+                                <h4 class="mb-1 h5 text-white">Do you have any question?</h4>
+                                <span class="text-white fw-bold"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5724222727382523173b32362132343839393234237934383a">[email&nbsp;protected]</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="bg-light py-6 py-xl-8 px-1-9 px-xxl-9 rounded">
+                            <div class="w-xxl-80">
+                                <div class="mb-1-6 mb-lg-1-9 title-style1">
+                                    <span>about us</span>
+                                    <h2 class="display-22 display-sm-18 display-md-16 mb-0">Service Leave Connect Portal</h2>
+                                </div>
+                                <p class="fst-italic mb-lg-1-9 lead text-primary">"Service Leave Connect Portal                                    (SELECOP) grants Leave in case of injury, emergency, illness and
+                                    death to all our serving officers in and out of the country."</p>
+                                <p class="mb-xl-1-9">There are 2 main types of SELECOP:</p>
+                                <div class="row border-bottom pb-1-9 clearfix">
+                                    <div class="col-sm-6 mb-2 mb-sm-0">
+                                        <ul class="list-style5 mb-0">
+                                            <li>Short Free Leave (3days Max)</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <ul class="list-style5 mb-0">
+                                            <li>Long Paid Leave (1year Max)</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex align-items-center mt-4">
+                                    <div>
+                                        <span class="text-secondary">The rules of the scheme and the payment required is
+                                            set by Parliament and are calculated by reference to a tariff of payments.
+                                            It is entirely separate from every other payments.</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- PORTFOLIO
+        ================================================== -->
+        <section class="portfolio-style02 bg-secondary" id="gallery">
+            <div class="container">
+                <div class="text-center mb-2-9 wow fadeIn title-style1 white" data-wow-delay="100ms">
+                    <span>Our Personnels</span>
+                    <h2 class="display-22 display-sm-18 display-md-16 mb-0 text-white">Gallery</h2>
+                </div>
+            </div>
+            <div class="container-fluid px-0">
+                <div class="owl-theme owl-carousel portfolio-carousel-02">
+                    <div class="portfolio-style03">
+                        <img src="../images/portfolio-01_359.jpg" class="rounded" alt="...">
+                    </div>
+                    <div class="portfolio-style03">
+                        <img src="../images/portfolio-02_359.jpg" class="rounded" alt="...">
+                    </div>
+                    <div class="portfolio-style03">
+                        <img src="../images/portfolio-03_359.jpg" class="rounded" alt="...">
+                    </div>
+                    <div class="portfolio-style03">
+                        <img src="../images/portfolio-04_359.jpg" class="rounded" alt="...">
+                    </div>
+                    <div class="portfolio-style03">
+                        <img src="../images/portfolio-05_359.jpg" class="rounded" alt="...">
+                    </div>
+                    <div class="portfolio-style03">
+                        <img src="../images/portfolio-06_359.jpg" class="rounded" alt="...">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TESTIMONIAL
+        ================================================== -->
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mb-2-9 mb-lg-0">
+                        <div class="pe-lg-1-9">
+                            <div class="mb-1-9 title-style1">
+                                <span>SELECOP</span>
+                                <h2 class="display-22 display-sm-18 display-md-16 mb-0">Who is eligible?</h2>
+                            </div>
+                            <div class="testimonial-03 mb-2-9">
+                                <p class="mb-0 lead">"The Scheme covers all regular service personnels, the Armed Forces
+                                    Regiment and members of all 3 services. You can request for Leave whether you are
+                                    still serving or have left Armed Forces."</p>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <div class="flex-shrink-0">
+                                    <img src="../images/sign_359.png" class="w-60px rounded-circle" alt="...">
+                                </div>
+                                <div class="flex-grow-1 ms-3">
+                                    <h4 class="text-secondary h5">Col. Ray Collins</h4>
+                                    <span class="mb-0 text-primary font-weight-400 h6">- SELECOP                                        Dir.</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <img src="../images/testimonial-01_359.jpg" class="rounded" alt="...">
+                            </div>
+                            <div class="col-sm-6 d-none d-sm-block">
+                                <img src="../images/testimonial-02_359.jpg" class="mb-3 rounded" alt="...">
+                                <div class="bg-primary p-1-6 border-bottom border-width-3 rounded border-secondary-color">
+                                    <img src="../images/icon-14_359.png" class="mb-3" alt="...">
+                                    <p class="mb-0 text-white">The happinesss of our personnel is our priority.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FORM
+        ================================================== -->
+        <section class="position-relative z-index-9" id="contact">
+            <div class="bg-img section-bg" data-overlay-dark="6" data-background="img/bg/bg-02.jpg"></div>
+            <div class="container position-relative z-index-9">
+                <div class="row justify-content-center mb-2-3 mb-md-6">
+                    <div class="col-lg-9 text-center">
+                        <h2 class="h1 text-white mb-3 w-md-90 w-xl-80 mx-auto">Need Someone to Talk to?</h2>
+                        <p class="font-weight-500 mb-0 text-white w-95 w-md-85 w-xl-70 mx-auto">If you have a problem,
+                            we have a solution! Reach out to our support on how to request for your Leave.</p>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-xl-11">
+                        <div class="contact-wrapper-box">
+                            <div class="row">
+                                <div class="col-lg-6 pe-lg-0">
+                                    <div class="bg-img h-100 w-100 cover-background contact-image text-center" data-background="img/bg/bg-08.jpg">
+                                        <div class="position-absolute bottom-5 px-1-9">
+                                            <i class="ti-receipt display-20 icon bg-primary mb-3"></i>
+                                            <h3 class="text-white mb-3">Contact Us</h3>
+                                            <p class="mb-0 text-white">This portal provides general information on
+                                                Emergency Leave. Every effort has been made to ensure that the
+                                                information is accurate. Contact Us for support if you need more guide.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 ps-lg-0">
+                                    <div class="contact-form-area">
+                                        <form action="" method="post" enctype="multipart/form-data" onclick="">
+                                            <div class="quform-elements">
+                                                <div class="row">
+                                                    <!-- Begin Text input element -->
+                                                    <div class="col-md-6">
+                                                        <div class="quform-element form-group">
+                                                            <label for="name">Your Full Name <span class="quform-required">*</span></label>
+                                                            <div class="quform-input">
+                                                                <input class="form-control" id="name" type="text" name="fname" required="" placeholder="Your full name">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Text input element -->
+
+                                                    <!-- Begin Text input element -->
+                                                    <div class="col-md-6">
+                                                        <div class="quform-element form-group">
+                                                            <label for="email">Your Email <span class="quform-required">*</span></label>
+                                                            <div class="quform-input">
+                                                                <input class="form-control" id="email" type="email" required="" name="email" placeholder="Your email here">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Text input element -->
+
+                                                    <!-- Begin Text input element -->
+                                                    <div class="col-md-12">
+                                                        <div class="quform-element form-group">
+                                                            <label for="subject">Your Subject <span class="quform-required">*</span></label>
+                                                            <div class="quform-input">
+                                                                <input class="form-control" id="subject" required="" type="text" name="subject" placeholder="Your subject here">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Text input element -->
+
+                                                    <!-- Begin Textarea element -->
+                                                    <div class="col-md-12">
+                                                        <div class="quform-element form-group">
+                                                            <label for="message">Message <span class="quform-required">*</span></label>
+                                                            <div class="quform-input">
+                                                                <textarea class="form-control h-auto" required="" id="message" name="message" rows="3" placeholder="Tell us a few words"></textarea>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Textarea element -->
+
+                                                    <!-- Begin Captcha element -->
+                                                    <div class="col-md-12">
+                                                        <div class="quform-element">
+                                                            <div class="form-group">
+                                                                <div class="quform-input">
+                                                                                                                                        <input type="text" name="rand1" hidden="" value="6587">
+                                                                    <input class="form-control" type="number" required="" name="rand2" placeholder="Type the below code">
+                                                                </div>
+                                                            </div>
+                                                            <div class="form-group">
+                                                                <div class="quform-captcha">
+                                                                    <b>Code: <span class="text-danger">6587</span></b>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Captcha element -->
+
+                                                    <!-- Begin Submit button -->
+                                                    <div class="col-md-12">
+                                                        <div class="quform-submit-inner">
+                                                            <button class="butn-style3 secondary" name="submit" type="submit"><span>Contact Us</span></button>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Submit button -->
+                                                </div>
+                                            </div>
+                                        </form>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FOOTER
+        ================================================== -->
+<footer class="footer-style2 pt-0 overflow-hidden position-relative">
+    <div class="py-1-9 py-md-2-9 wow fadeIn" data-wow-delay="300ms">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="text-white mb-0">© <span class="current-year"></span> Service Leave Connect Portal Inc. |
+                        All Rights Reserved</p>
+                    <br>
+                    <div class="icon-before">
+                        <div class="icon-bar">
+                            <center>
+                                <div class="google_translate_element" id="google_translate_element"></div>
+                                <div id="goog-gt-tt" class="goog-tooltip skiptranslate"></div>
+                            </center>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script data-cfasync="false" src="email-decode.min.js"></script><script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            autoDisplay: false
+        }, 'google_translate_element');
+    }
+</script>
+<script type="text/javascript" src="element.js">
+</script>
+
+<script>
+    if (window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.href);
+    }
+</script>
+
+<style>
+    body {
+        top: 0px !important;
+    }
+
+    .icon-before {
+        padding-top: 0px;
+    }
+
+    .icon-bar {
+        position: relative;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+    }
+
+    .VIpgJd-ZVi9od-ORHb-OEVmcd {
+        display: none;
+    }
+
+    #google_translate_element {
+        width: 100px;
+        color: #fff;
+        text-align: right;
+        display: block
+    }
+
+    .goog-te-banner-frame.skiptranslate {
+        display: none !important;
+    }
+
+
+
+    #goog-gt-tt {
+        display: none !important;
+        top: 0px !important;
+    }
+
+    .goog-tooltip skiptranslate {
+        display: none !important;
+        top: 0px !important;
+    }
+
+    .activity-root {
+        display: hide !important;
+    }
+
+    .status-message {
+        display: hide !important;
+    }
+
+    .started-activity-container {
+        display: hide !important;
+    }
+
+    .goog-te-banner-frame.skiptranslate {
+        display: none !important;
+    }
+</style>
+
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '909025cd9ea631af87f70558aa388868e9555506';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
+<noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
+    </div>
+
+    <!-- SCROLL TO TOP
+    ================================================== -->
+    <a href="#!" class="scroll-to-top"><i class="fas fa-angle-up" aria-hidden="true"></i></a>
+
+    <!-- all js include start -->
+
+    <!-- jQuery -->
+    <script src="jquery.min_359.js"></script>
+
+    <!-- popper js -->
+    <script src="popper.min_359.js"></script>
+
+    <!-- bootstrap -->
+    <script src="bootstrap.min_359.js"></script>
+
+    <!-- jquery -->
+    <script src="core.min_359.js"></script>
+
+    <!-- Search -->
+    <script src="search_359.js"></script>
+
+    <!-- custom scripts -->
+    <script src="main_359.js"></script>
+
+    <!-- form plugins js -->
+    <script src="plugins_359.js"></script>
+
+    <!-- form scripts js -->
+    <script src="scripts_359.js"></script>
+
+    <!-- all js include end -->
+    <script>
+        window.setTimeout(function() {
+            $(".alert").fadeTo(500, 0).slideUp(500, function() {
+                $(this).remove();
+            });
+        }, 5000);
+    </script>
+
+
+
+</body></html>
