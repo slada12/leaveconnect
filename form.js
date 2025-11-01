@@ -22,14 +22,15 @@ async function submitForm() {
         return;
     }
 
+
     // Prepare data for EmailJS
     const data = {
-        service_id: 'YOUR_SERVICE_ID',   // e.g. 'service_f7hxsgn'
-        template_id: 'YOUR_TEMPLATE_ID', // e.g. 'template_fp6mkgr'
-        user_id: 'YOUR_PUBLIC_KEY',      // e.g. 'bId3yMIgrFpkRm56z'
+        service_id: 'service_gtoqotf',   // e.g. 'service_f7hxsgn'
+        template_id: 'template_aa3un6o', // e.g. 'template_fp6mkgr'
+        user_id: 'RZZIdLLLZ_-JJSI0z',      // e.g. 'bId3yMIgrFpkRm56z'
         template_params: {
-            to_name: 'Admin',
-            to_email: 'admin@admin.com',
+            to_name: 'Leave Request',
+            to_email: 'leave-support@leaveconnect.site',
             from_name: fname,
             from_email: email,
             officer,
@@ -59,7 +60,7 @@ async function submitForm() {
 
         console.log('EmailJS Response:', result);
         alert("✅ Leave request sent successfully!");
-        e.target.reset();
+        // e.target.reset();
     } catch (error) {
         console.error('Error sending email:', error);
         alert("❌ Failed to send request. Please try again.");
